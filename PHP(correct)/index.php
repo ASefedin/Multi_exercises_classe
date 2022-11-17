@@ -7,7 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-            <!
             <p>"--------------------------etape1---------------------------"</p>
             <p> Hello World</p>
 
