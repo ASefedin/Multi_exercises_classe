@@ -1,0 +1,37 @@
+main{
+    border: 5px solid black;
+    border-radius: 50px;
+    margin: 0 auto;
+}
+
+body{
+    background-color: rgba(149, 64, 228, 0.664);
+}
+
+.color{
+    background-color:lightcoral;
+}
+
+.flex{
+    display: flex;
+}
+
+.inline{
+    display:inline ;
+}
+
+legend{
+    font-size: 40px;
+}
+
+.gauche{
+    width: 100px;
+}
+
+.button{
+    color: black;
+}
+
+.justify-content-space-evenly{
+    justify-content: space-evenly;
+}
