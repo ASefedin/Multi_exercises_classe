@@ -20,6 +20,23 @@
         )
     ?>
     <!-- Partie affichage -->
-    <p>La factorielle de 7 vaut <?= Factorielle(7) ?></p>
+        <p>La factorielle de 7 vaut <?= Factorielle(7) ?></p>
+
+    <!-- Partie traitement niveaux 2-->
+    <?php
+        function nombreLettre($chaineDepart, $caractere, $nbProbleme)
+        (
+            $longueurChaine = $chaineDepart
+            $nbProbleme = 0
+            for ($i=0; $i < $longueurChaine -1; $i++) { 
+                if ($chaineDepart[i] = $caractere) {
+                    $nbProbleme = $nbProbleme + 1
+                }
+            }
+            $text = nombreLettre;
+        )
+    ?>
+    <!-- Partie traitement niveaux 2--> 
+            <p>voici votre reponse <?= nombreLettre(text) ?></p>
 </body>
 </html>
