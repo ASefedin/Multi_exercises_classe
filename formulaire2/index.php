@@ -5,15 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
     <main>
         <form action="" method="">
-        <h1 class="flex justify-content-space-evenly">formulaire</h1>
-            <div class="flex justify-content-space-evenly ">
-                <div class="gauche">
-                    <fieldset class="color">
+        <h1>formulaire</h1>
+            <div>
+                <div>
+                    <fieldset>
                         <legend>Vos coordonées</legend>
                         <div>
                             <label for="nom">entre votre nom :</label>
@@ -57,7 +56,7 @@
                 </div>
 
                 <div>
-                    <fieldset class="color">
+                    <fieldset>
                         <legend>Périodicité</legend>
                             <div>
                                 <input type="radio" id="h" name="sexe" value="homme">
@@ -74,10 +73,10 @@
                             </div>
                     </fieldset>
 
-                    <fieldset class="color">
+                    <fieldset>
                         <legend>Version papier - informatique</legend>
 
-                        <div class="champ">
+                        <div>
                             <div>
                                 <input type="checkbox" id="recevoir le version papier" name="competences" value="recevoir le version papier">
                                 <label for="recevoir le version papier">recevoir le version papier</label>
@@ -91,7 +90,7 @@
                 </div>
             </div>
 
-            <div class="flex justify-content-space-evenly button">
+            <div>
                 <input type="submit" value="envoyer">
             </div>
         </form>
