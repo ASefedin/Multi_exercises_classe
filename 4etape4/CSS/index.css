@@ -180,7 +180,10 @@ footer {
     margin: 0;
     padding: 10px;
     margin-top: 20px;
+
 }
+
+
 
 footer p a {
     color: white;
@@ -229,4 +232,13 @@ th {
 .progress-bar {
     height: 20px;
     background-color: green;
+}
+
+.style {
+    line-height: 2.5;
+    padding: 0 auto;
+    color: #fff;
+    border-radius: 10px;
+    background-color: blue;
+    margin: 10px;
 }

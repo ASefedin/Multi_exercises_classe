@@ -1,0 +1,20 @@
+
+
+div label{
+    display: block;
+    margin: 15px;
+    font-size: 20px;
+}
+
+legend{
+    border: solid 15px blue;
+    border-radius: 15px;
+    background-color: blue;
+    color: white;
+}
+
+fieldset{
+    border-radius: 15px;
+    border-color: blue;
+    width: 50%;
+}
